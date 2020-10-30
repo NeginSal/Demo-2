@@ -1,3 +1,5 @@
 This is a new file
 line1
 line2
+line6
+line7
